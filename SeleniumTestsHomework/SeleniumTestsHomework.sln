@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumTestsHomeworkWiki", "SeleniumTestsHomeworkWiki.csproj", "{99E69BA0-9A8E-461F-A202-188CFA37CF8F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumSummator", "..\SeleniumSummator\SeleniumSummator.csproj", "{B7F495BA-1456-4C07-82BE-1C3035B2F2D8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SeleniumTestURLShortener", "..\SeleniumTestURLShortener\SeleniumTestURLShortener.csproj", "{FB50BCF0-615D-4D6A-89CB-EC0E3342EB58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumNumberCalculatorTests", "..\SeleniumNumberCalculatorTests\SeleniumNumberCalculatorTests.csproj", "{CF42C757-9215-4B38-87DC-F4A5D6C26E1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99E69BA0-9A8E-461F-A202-188CFA37CF8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99E69BA0-9A8E-461F-A202-188CFA37CF8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99E69BA0-9A8E-461F-A202-188CFA37CF8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99E69BA0-9A8E-461F-A202-188CFA37CF8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7F495BA-1456-4C07-82BE-1C3035B2F2D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7F495BA-1456-4C07-82BE-1C3035B2F2D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7F495BA-1456-4C07-82BE-1C3035B2F2D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7F495BA-1456-4C07-82BE-1C3035B2F2D8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FB50BCF0-615D-4D6A-89CB-EC0E3342EB58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FB50BCF0-615D-4D6A-89CB-EC0E3342EB58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FB50BCF0-615D-4D6A-89CB-EC0E3342EB58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FB50BCF0-615D-4D6A-89CB-EC0E3342EB58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF42C757-9215-4B38-87DC-F4A5D6C26E1C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF42C757-9215-4B38-87DC-F4A5D6C26E1C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF42C757-9215-4B38-87DC-F4A5D6C26E1C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF42C757-9215-4B38-87DC-F4A5D6C26E1C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6325FA44-0FF7-4DDE-BAE4-4EDBB587361E}
+	EndGlobalSection
+EndGlobal
